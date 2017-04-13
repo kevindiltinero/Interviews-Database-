@@ -3,14 +3,14 @@ CREEPY_FACIAL_EXPRESSION,GIANT_PIMPLES_ON_FACE,AVERAGE_LIKES_ON_FACEBOOK,HAIRSTY
 1,347,20,1,Swipe-left
 0,400,70,2,Swipe-left
 0,700,40,3,Swipe-left
-3,222,4,1,Swipe-left
+3,222,Female,1,Swipe-left
 1,602,1000,2,Swipe-left
 3,1000,15,4,Swipe-right
 0,347,300,3,Swipe-right
-1,423,10,1,Swipe-right
+1,423,Female,1,Swipe-right
 0,200,800,1,Swipe-right
 3,555,20,3,Swipe-right
-3,337,127,2,Swipe-right
+3,337,Male,2,Swipe-right
 1,822,222,0,Swipe-right
 2,100,4,4,Swipe-right
 7,3.2,4.7,1.4,Iris-versicolor
