@@ -1,16 +1,16 @@
 CREEPY_FACIAL_EXPRESSION,GIANT_PIMPLES_ON_FACE,AVERAGE_LIKES_ON_FACEBOOK,HAIRSTYLE,SWIPE
 Not creepy,1000,1000000,Mohawk,Swipe-left
-Fairly creepy,347,20,Cookie-cutter,Swipe-left
-Not creepy,400,70,Punk,Swipe-left
-Not creepy,700,40,Shaved,Swipe-left
+Fairly creepy,,20,Cookie-cutter,Swipe-left
+Not creepy,400,,Punk,Swipe-left
+Not creepy,,40,Shaved,Swipe-left
 Very creepy,222,4,Cookie-cutter,Swipe-left
 Fairly creepy,602,200000,Punk,Swipe-left
-Very creepy,1000,15,Douche bag,Swipe-right
+Very creepy,1000,,Douche bag,Swipe-right
 Not creepy,347,300,Shaved,Swipe-right
-Fairly creepy,423,10,Cookie-cutter,Swipe-right
-Not creepy,200,800,Cookie-cutter,Swipe-right
+Fairly creepy,,10,Cookie-cutter,Swipe-right
+Not creepy,200,,Cookie-cutter,Swipe-right
 Very creepy,555,20,Shaved,Swipe-right
-Very creepy,337,127,Punk,Swipe-right
+Very creepy,,,Punk,Swipe-right
 Fairly creepy,822,222,Mohawk,Swipe-right
 Creepy,100,4,Cookie-cutter,Swipe-right
 7,3.2,4.7,1.4,Iris-versicolor
