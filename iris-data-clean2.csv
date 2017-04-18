@@ -1,23 +1,23 @@
 CREEPY_FACIAL_EXPRESSION,EYE_PATCH,AVERAGE_FRIENDS_ON_FACEBOOK,HAIRSTYLE,SWIPE
-Not creepy,TRUE,Mister popular 3,Shaved,Swipe-left
-Pretty creepy,FALSE,:( No mates 1,Punk,Swipe-left
-Creepy,FALSE,:( No mates 1,Short and stylish,Swipe-left
-Very creepy,TRUE,:( No mates 1,Long and flowing,Swipe-left
-Creepy,FALSE,Quite popular 2,Mohawk,Swipe-left
-Not creepy,TRUE,Mister popular 3,Punk,Swipe-left
-Not creepy,FALSE,:( No mates 1,Short and stylish,Swipe-right
-Not creepy,FALSE,Quite popular 2,Punk,Swipe-right
-Pretty creepy,,:( No mates 1,Punk,Swipe-right
-Very creepy,FALSE,Mister popular 3,Long and flowing,Swipe-right
-Very creepy,TRUE,:( No mates 1,Long and flowing,Swipe-right
-Very creepy,FALSE,:( No mates 1,Long and flowing,Swipe-right
-Very creepy,FALSE,Quite popular 2,Punk,Swipe-right
-2,10,4,4,Swipe-right
-7,3.2,4.7,1.4,Iris-versicolor
-6.4,3.2,4.5,1.5,Iris-versicolor
-6.9,3.1,4.9,1.5,Iris-versicolor
-5.5,2.3,4,1.3,Iris-versicolor
-6.5,2.8,4.6,1.5,Iris-versicolor
+2,10,4,4,Swipe-left
+7,3.2,4.7,1.4,Swipe-left
+6.4,3.2,4.5,1.5,Swipe-left
+6.9,3.1,4.9,1.5,Swipe-left
+5.5,2.3,4,1.3,Swipe-left
+6.5,2.8,4.6,1.5,Swipe-left
+5.7,2.8,4.5,1.3,Swipe-right
+6.3,3.3,4.7,1.6,Swipe-right
+4.9,2.4,3.3,1,Swipe-right
+6.6,2.9,4.6,1.3,Swipe-right
+5.2,2.7,3.9,1.4,Swipe-right
+5,2,3.5,1,Swipe-right
+5.9,3,4.2,1.5,Swipe-right
+6,2.2,4,1,Swipe-right
+6.9,3.2,5.7,2.3,Iris-versicolor
+5.6,2.8,4.9,2,Iris-versicolor
+5.6,2.8,6.7,2,Iris-versicolor
+6.3,2.7,4.9,1.8,Iris-versicolor
+6.7,3.3,5.7,2.1,Iris-versicolor
 5.7,2.8,4.5,1.3,Iris-versicolor
 6.3,3.3,4.7,1.6,Iris-versicolor
 4.9,2.4,3.3,1,Iris-versicolor
